@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Kar | Portfolio</title>
+    <title>Kartiko | Portfolio</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
@@ -72,7 +72,7 @@
 
         <nav class="sticky top-0 z-10 border-b-4" style="background: var(--paper); border-color: var(--ink);">
             <div class="px-6 md:px-10 py-4 flex justify-between items-center">
-                <a href="#home" class="font-pixel text-sm" style="color: var(--red);">KAR</a>
+                <a href="#home" class="font-pixel text-sm" style="color: var(--red);">KARTIKO WIDYOTOMO</a>
                 <div class="font-pixel text-[10px] md:text-xs space-x-4 md:space-x-6">
                     <a href="#home" class="hover:text-red-600">Home</a>
                     <a href="#projects" class="hover:text-red-600">Projects</a>
