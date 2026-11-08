@@ -88,7 +88,7 @@
 
         <div class="ground mt-10"></div>
         <footer class="text-center py-4 text-white" style="background: #8b5a2b;">
-            © <?= date('Y') ?> Kartiko
+            <p>© <?= date('Y') ?> Kartiko Widyotomo · Built with PHP (MVC) and Tailwind CSS</p>
         </footer>
     </div>
 
