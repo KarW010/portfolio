@@ -1,6 +1,6 @@
 <?php
     $cvLink   = 'https://drive.google.com/drive/folders/1-JoQ8hNPTDYlvKQOKFqRnra5e5IS82NY?usp=drive_link';  
-    $certLink = 'https://drive.google.com/drive/folders/1aVYz_8cL-CYBUIcZNpCxRcRcK33TZ8Lb?usp=sharing'; 
+    $certLink = 'https://drive.google.com/drive/folders/178Pgz2hpQHmUs2JPxaJItUktAlT4-fH-?usp=sharing'; 
 ?>
 <style>
     .skill-tag {
